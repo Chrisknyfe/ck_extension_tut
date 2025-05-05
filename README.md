@@ -1,0 +1,1 @@
+This is an example gdextension I'm developing for the Godot GDExtension workshop at GodotCon 2025!
